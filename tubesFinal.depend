@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1556225318 source:f:\amal\semester_2\std\tubesfinal\main.cpp
+	<iostream>
+	<cstdlib>
+	"tubesFinal.h"
+
+1556225579 source:f:\amal\semester_2\std\tubesfinal\tubesfinal.cpp
+	"tubesFinal.h"
+
+1556222846 f:\amal\semester_2\std\tubesfinal\tubesfinal.h
+	<iostream>
+
